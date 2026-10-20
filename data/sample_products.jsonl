@@ -1,0 +1,4 @@
+{"id": "P1", "title": "Wireless Mouse", "description": "Ergonomic bluetooth mouse for laptops", "categories": ["electronics", "accessories"], "price": 19.99}
+{"id": "P2", "title": "Gaming Keyboard", "description": "Mechanical keyboard with RGB backlight", "categories": ["electronics", "gaming"], "price": 49.99}
+{"id": "P3", "title": "Running Shoes", "description": "Lightweight shoes for daily running", "categories": ["sports", "footwear"], "price": 59.99}
+{"id": "P4", "title": "Coffee Maker", "description": "Automatic drip coffee machine", "categories": ["home", "kitchen"], "price": 79.99}
